@@ -80,7 +80,7 @@ var count = 0;
                 "familyName": restoNomeS,
                 "givenName": firstName
               },
-              "password": "12345678",
+              "password": "senha12345",
               "primaryEmail": email1
             }
           );
@@ -96,7 +96,7 @@ var count = 0;
                 "familyName":  restoNomeS,
                 "givenName": firstName
               },
-              "password": "12345678",
+              "password": "senha12345",
               "primaryEmail": email2
             }
           );
@@ -111,7 +111,7 @@ var count = 0;
                 "familyName": restoNomeS,
                 "givenName": firstName
               },
-              "password": "12345678",
+              "password": "senha12345",
               "primaryEmail": email3
             }
           );
@@ -126,7 +126,7 @@ var count = 0;
                 "familyName": restoNomeS,
                 "givenName": firstName
               },
-              "password": "12345678",
+              "password": "senha12345",
               "primaryEmail": email4
             }
           );
